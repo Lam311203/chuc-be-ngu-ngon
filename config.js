@@ -15,5 +15,6 @@ const CONFIG = {
     mess: 'dạ :33',
     messDesc: 'Chúc bé ngủ ngon.',
     btnAccept: 'Okiiiii bé ngủ đây <3',
+    messLink: 'https://m.facebook.com/messages/?entrypoint=jewel&no_hist=1',
    
 }
