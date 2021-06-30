@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Ngủ ngonnnnnn<33333333',
     mess: 'dạ :33',
     messDesc: 'Chúc bé ngủ ngon.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii bé ngủ đây <3',
    
 }
